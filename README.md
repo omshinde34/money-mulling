@@ -27,12 +27,12 @@ Database: MySQL / MongoDB (whichever you used)
 ## 📂 How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/money-muling-website.git
+   git clone https://github.com/omshinde34/money-muling.git
 
-2. Install dependencies:
+3. Install dependencies:
    npm install
 
-3. Start the server:
+4. Start the server:
    npm start
 
 ---
